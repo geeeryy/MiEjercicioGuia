@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\",
+  "WorkspaceRootPath": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\gerar\\onedrive\\escriptori\\upc\\q4\\so\\miejercicioguia\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\gerar\\onedrive\\escriptori\\upc\\q4\\so\\ejercicioguiasistemasoperativos\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\gerar\\onedrive\\escriptori\\upc\\q4\\so\\ejercicioguiasistemasoperativos\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAlwCYAAAAjAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwE4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T00:13:04.022Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\MiEjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escriptori\\UPC\\Q4\\SO\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T00:12:59.71Z",
